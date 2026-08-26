@@ -82,13 +82,14 @@ Note the highest grade you can receive is a 100%.
 Sample Readme (delete the above when you're ready to submit, and modify the text below with your links and descriptions)
 ---
 
-Charlie Roberts
+Eris Ropi
 http://a1-charlieroberts.onrender.com
 
-This project shows ...
+This project shows a basic description about me, my experiences with the material in this class and a picture of a goat and a goat video. 
 
 ## Technical Achievements
-- **Styled page with CSS**: Added rules for the p, li, and a selectors...
+- **Styled page with CSS**: Set a background color, styled h1 with a maroon color and custom font, also changed simple things like text color, font size, and changed the border styling to paragraphs
+- **Experimented with semantic HTML tags**: Used '<header>' for wrapping the page heading, '<table>' to list the previous courses I have taken, '<img>' to paste an image of a goat, '<a>' to add a hyperlink of goat noises, and '<footer>' to close the page
 
 ## Design Achievements
-- **Used the Roboto Font from Google Fonts**: I used Roboto as the font for the primary copy text in my site.
+- **Used the Anton font from Google Fonts**: I used Anton as the font for the pages 'h1' heading
